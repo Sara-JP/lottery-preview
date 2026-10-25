@@ -1,0 +1,10 @@
+{
+  "description": "Enterprise platform for managing and broadcasting live physical lotteries with real-time digit input, winner verification, and premium TV-grade visuals.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
